@@ -1,0 +1,5 @@
+backend-server/venv
+models/*
+model/*
+CRF/hindiNER.crfsuite
+CRF/list_of_words.pickle
