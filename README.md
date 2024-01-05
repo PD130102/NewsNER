@@ -22,6 +22,7 @@ The robust backend of NewsNER is designed to handle a variety of NLP tasks:
 2. **NER (Named Entity Recognition) Tagging:**
    - Efficiently recognizes and categorizes key entities in the news text such as names, organizations, locations, etc.
    - Critical for detailed news analysis and information extraction.
+   - Done using HMM and CRF Method (python-crfsuite)
 
 3. **Zero-Shot Text Classification:**
    - Classifies news into various categories without needing labeled examples for every class.
