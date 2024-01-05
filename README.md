@@ -1,4 +1,4 @@
-# NewsNER Project
+# NewsNER 
 
 ## Overview
 The NewsNER project is a groundbreaking initiative that leverages the power of transformer-based models, fine-tuned specifically for an extensive Hindi news dataset. This project embodies the cutting-edge in Natural Language Processing (NLP), providing comprehensive analytics and classification of news content.
